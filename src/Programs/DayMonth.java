@@ -1,6 +1,6 @@
 package Programs;
 
-public class Solution {
+public class DayMonth {
 
     public static int dayOfYear(String date) {
         // Days in each month for non-leap years
